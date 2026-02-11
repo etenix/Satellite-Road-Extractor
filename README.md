@@ -20,19 +20,6 @@ cd Satellite-Road-Extractor
 pip install -r requirements.txt
 ```
 
-## 🗂️ ディレクトリ構成
-
-Satellite-Road-Extractor/
-├── data/
-│   ├── images/     # 衛星画像
-│   └── masks/      # 正解マスク
-├── utils/
-│   ├── dataset.py
-│   └── post_process.py
-├── train.py
-├── predict.py
-└── requirements.txt
-
 ## 🛠️ 使用方法
 
 ### 1️⃣ データ準備
