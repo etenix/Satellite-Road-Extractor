@@ -29,13 +29,13 @@ pip install -r requirements.txt
 - ※ ファイル名は対応させてください。
 
 ### 2️⃣ モデル学習
-
-```python train.py --epochs 50 --batch_size 8
+```bash
+python train.py --epochs 50 --batch_size 8
 ```
 
 ### 3️⃣ 推論・予測
-
-```python predict.py --input test_image.tif
+```bash
+python predict.py --input test_image.tif
 ```
 
 ## 📚 主要ライブラリ（requirements.txt）
