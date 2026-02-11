@@ -15,7 +15,7 @@
 
 ## 🔧 インストール
 ```bash
-git clone https://github.com/YourUsername/Satellite-Road-Extractor.git
+git clone https://github.com/etenix/Satellite-Road-Extractor.git
 cd Satellite-Road-Extractor
 pip install -r requirements.txt
 ```
